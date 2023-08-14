@@ -1,2 +1,2 @@
 # relatorio-precos-python
-Aplicação que realiza relatórios referentes a preços de computadores com Python e Selenium.
+Aplicação que realiza relatórios referentes a tipos de refrigerantes. Feito com Python, Selenium e Pandas.
